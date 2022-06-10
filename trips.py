@@ -1,4 +1,4 @@
-trips= [("Buenos Aires", "Argentina"), ("Glasgow", "Escocia"), ("Lisboa", "Portugal"), ("Liverpool", "Inglaterra"), ("Madrid", "España")] # Default trips
+trips= [("Buenos Aires", "Argentina"), ("Glasgow", "Escocia"), ("Lisboa", "Portugal"), ("Liverpool", "Inglaterra"), ("Madrid", "Espania")] # Default trips
 
 #countries= tuple(y for x, y in trips)
 
